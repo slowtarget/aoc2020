@@ -1,0 +1,67 @@
+eyr:1972 cid:100
+hcl:#18171d ecl:amb hgt:170 pid:186cm iyr:2018 byr:1926
+
+iyr:2019
+hcl:#602927 eyr:1967 hgt:170cm
+ecl:grn pid:012533040 byr:1946
+
+hcl:dab227 iyr:2012
+ecl:brn hgt:182cm pid:021572410 eyr:2020 byr:1992 cid:277
+
+hgt:59cm ecl:zzz
+eyr:2038 hcl:74454a iyr:2023
+pid:3556412378 byr:2007
+
+eyr:2019 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:165cm
+
+eyr:2031 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:165cm
+
+eyr:2029 ecl:blb cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:165cm
+
+eyr:2029 ecl:blu cid:129 byr:1919
+iyr:2014 pid:896056539 hcl:#a97842 hgt:165cm
+
+eyr:2029 ecl:blu cid:129 byr:2003
+iyr:2014 pid:896056539 hcl:#a97842 hgt:165cm
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2009 pid:896056539 hcl:#a97842 hgt:165cm
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2021 pid:96056539 hcl:#a97842 hgt:165cm
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:0896056539 hcl:#a97842 hgt:165cm
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:0000000000 hcl:#a97842 hgt:165cm
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a000ggg hgt:165cm
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#------ hgt:165cm
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:149cm
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:194cm
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:58in
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:77in
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:165im
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:165cn
+
+eyr:2029 ecl:blu cid:129 byr:1989
+iyr:2014 pid:896056539 hcl:#a97842 hgt:165cm
